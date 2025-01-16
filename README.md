@@ -10,11 +10,11 @@ react-admin-vite 适用于后台管理 web 项目的二次开发。让开发人�
 
 # 示例如下
 
-<img src="./src/assets/readme1.png" alt="示例图片" width="600">
+<img src="./assets/readme1.png" alt="示例图片" width="600">
 
-<img src="./src/assets/readme2.png" alt="示例图片" width="600">
+<img src="./assets/readme2.png" alt="示例图片" width="600">
 
-# 安装依赖 -- node 版本需大于 v16.0.0
+# 安装依赖
 
 ```bash
 npm install
@@ -25,5 +25,7 @@ npm install
 ```bash
 npm run dev
 ```
+
+node 版本需大于 v16.0.0
 
 初始账号密码：admin/hyy123
