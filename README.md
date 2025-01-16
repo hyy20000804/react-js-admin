@@ -10,9 +10,9 @@ react-admin-vite 适用于后台管理 web 项目的二次开发。让开发人�
 
 # 示例如下
 
-<img src="./assets/readme/test1.png" alt="示例图片" width="600">
+<img src="./src/assets/readme/test1.png" alt="示例图片" width="600">
 
-<img src="./assets/readme/test2.png" alt="示例图片" width="600">
+<img src="./src/assets/readme/test2.png" alt="示例图片" width="600">
 
 # 安装依赖
 
